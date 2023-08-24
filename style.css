@@ -1,0 +1,30 @@
+.calculator-body {
+  background-color: #7a78e4;
+  border-radius: 5px;
+  border: 2px solid #887878;
+  box-shadow: 0 2px 5px rgba(82, 79, 79, 0.3);
+  width: 420px;
+  margin: 20px auto;
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+}
+
+.card-body {
+  background-color: rgb(22, 18, 18);
+  border-radius: 5px;
+  border: 2px solid #887878;
+  box-shadow: 0 2px 5px rgba(82, 79, 79, 0.3);
+}
+
+.btn {
+  border: 1px solid black !important;
+  border-radius: 5px !important;
+  box-shadow: 0 2px 5px rgba(82, 79, 79, 0.3) !important;
+  font-weight: bold;
+}
+.form-control {
+  border: 1px solid black !important;
+  border-radius: 5px !important;
+  box-shadow: 0 2px 5px rgba(82, 79, 79, 0.3) !important;
+  font-weight: bold;
+}
